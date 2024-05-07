@@ -1,3 +1,3 @@
 # hamitideR
-mostly blooket hacks i want to remember
-some roblox exploits
+HOW TO USE BLOOKET HACKS: Copy - Inspect - Console - Paste the copied script
+ROBLOX SCRIPTS: Copy - Paste in executor
